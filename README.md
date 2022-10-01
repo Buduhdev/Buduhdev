@@ -8,3 +8,4 @@
 Buduhdev/Buduhdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[CMakeLists.txt](https://github.com/Buduhdev/Buduhdev/files/9689551/CMakeLists.txt)
